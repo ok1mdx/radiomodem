@@ -1,0 +1,9 @@
+/build/
+cmake-build-*/
+.vscode/
+.idea/
+*.wav
+*.raw
+*.log
+.DS_Store
+Thumbs.db
